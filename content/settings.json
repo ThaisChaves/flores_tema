@@ -1,8 +1,8 @@
 {
-  "store_id": 1052,
-  "name": "My Shop",
+  "store_id": 1117,
+  "name": "Flowers",
   "domain": "ecomplus-storefront.netlify.app",
-  "short_name": "My Shop",
+  "short_name": "Flowers",
   "description": "My PWA Shop",
   "primary_color": "#222831",
   "secondary_color": "#393e46",
